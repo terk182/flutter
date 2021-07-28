@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:terk01/Home_page.dart';
+import 'package:terk01/page/Home_page.dart';
 
 void main() {
   runApp(MyApp());
